@@ -1,8 +1,8 @@
 import React from "react";
 import { useState } from "react";
 import arrow from "../img/arrow-right.png";
-import bgvideo from "../img/particlebg.mp4";
-import useWindowDimensions from "../tools/useWindowDimensions";
+
+
 
 import logo from "../img/logo.jpg";
 
