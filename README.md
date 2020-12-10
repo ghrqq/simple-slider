@@ -16,5 +16,5 @@ Example usage: <"MainSlider imgArr={imgArr} logo={logo} /"> (remove the quotatio
 
 Example imgArr: imgArr = [img1, img2, img3]
 
-
+A working example is here: https://hairstylist-dummy.netlify.app/
 
